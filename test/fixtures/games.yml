@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  schedule: 2017-05-12 03:35:56
+  status: MyString
+  league: 
+  venue: MyString
+
+two:
+  schedule: 2017-05-12 03:35:56
+  status: MyString
+  league: 
+  venue: MyString

@@ -1,0 +1,2 @@
+class PlayerUrl < ApplicationRecord
+end

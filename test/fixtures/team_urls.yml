@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  g: MyString
+  model: MyString
+  team: 
+  sourceName: MyString
+  url: MyString
+  active: false
+
+two:
+  g: MyString
+  model: MyString
+  team: 
+  sourceName: MyString
+  url: MyString
+  active: false

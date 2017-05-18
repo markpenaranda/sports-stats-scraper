@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  league: one
+  url: MyString
+  type: 
+  sourceName: MyString
+
+two:
+  league: two
+  url: MyString
+  type: 
+  sourceName: MyString

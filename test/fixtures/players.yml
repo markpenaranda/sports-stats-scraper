@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  jersey_number: 1
+  height: 1
+  weight: 1
+  country: MyString
+  hometown: MyString
+  age: 1
+  team: 
+  active: false
+
+two:
+  name: MyString
+  jersey_number: 1
+  height: 1
+  weight: 1
+  country: MyString
+  hometown: MyString
+  age: 1
+  team: 
+  active: false
